@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.section {
+    background-color: #ffeab6;
+    margin: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem 2rem;
+    box-shadow: 5px 5px rgb(34, 34, 34);
+}

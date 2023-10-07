@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+}
+
+.section {  
+    margin: 30px;
+    margin-top: 5rem;
+    padding:30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1 {
+    font-size: 5rem;
+}
+
+.img {
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
